@@ -1,0 +1,81 @@
+h1
+{
+    text-align: center;
+}
+
+h3
+{
+    margin: 0px 20px;
+}
+
+p
+{
+    margin: 0px 20px;
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+a
+{
+    text-decoration: color;
+    color: aliceblue;
+    text-decoration-line: underline;
+}
+
+li
+{
+    margin: 0px 20px;
+}
+/* Becas internas */
+.becas-internas 
+{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    float: left;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    text-align: justify;
+}
+
+.parrafo-becas-internas 
+{
+    text-align: justify;
+    padding-right: 20px;
+    color: white;
+}
+
+/* Becas externas */
+.becas-externas
+{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    float: right;
+    width: 50%;
+    background-color: red;
+    color: white;
+}
+
+.parrafo-becas-externas 
+{
+    text-align: justify;
+    padding-left: 20px;
+    color: white;
+}
+
+.titulo-arriba
+{
+    padding-top: 10px;
+}
+
+a:hover
+{
+    text-align: center;
+    color: rgb(255, 255, 21);
+}
+
+a:active
+{
+    text-align: center;
+    color: green;
+}
